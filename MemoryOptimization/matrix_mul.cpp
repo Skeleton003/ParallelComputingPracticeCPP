@@ -1,4 +1,3 @@
-#include <iostream>
 //#include <x86intrin.h>  // _mm 系列指令都来自这个头文件
 #include <xmmintrin.h>  // 如果上面那个不行，试试这个
 #include <tbb/parallel_for.h>
